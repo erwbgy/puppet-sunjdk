@@ -1,3 +1,7 @@
+# _Unmaintained_
+
+I no longer use Puppet actively and this software has not been maintained for some time.
+
 # puppet-sunjdk
 
 Install the Sun (Oracle) JDK under /usr/java from a tarball.
